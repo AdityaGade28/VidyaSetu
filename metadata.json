@@ -1,0 +1,8 @@
+{
+  "name": "VidyaSetu - ST Scholarship & Fellowship Platform",
+  "description": "AI-assisted scholarship and fellowship lifecycle management system for Scheduled Tribe students, featuring intelligent document verification, deficiency workflows, and selection monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
