@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ VidyaSetu (विद्यासेतु)
+# 🏛️ VidyaSetu 
 ### AI-Enabled Scholarship & Fellowship Management System for Scheduled Tribes
 **An AI-Powered GovTech Lifecycle Solution for the Ministry of Tribal Affairs (MoTA), Government of India**
 
@@ -274,7 +274,6 @@ VidyaSetu delivers four specialized interfaces tailored to government administra
 * **Event**: Smart India Hackathon 2026
 * **Team Name**: **Team Apex**
 * **Team ID**: **133708**
-* **GitHub Organization**: [@AdityaGade28](https://github.com/AdityaGade28)
 
 ---
 
